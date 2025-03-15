@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" cursor="default" viewBox="0 0 256 256">
+    <defs>
+        <linearGradient id="linearGradient924" x1="18.12" x2="21.466" y1="241.29" y2="228.73" gradientTransform="scale(1 -1) rotate(-89.503 -.246 -.024)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#917c6f"/>
+            <stop offset="1" stop-color="#ac9d93"/>
+        </linearGradient>
+        <linearGradient id="innoGrad4">
+            <stop offset="0" stop-color="#ffb380"/>
+            <stop offset="1" stop-color="#fca"/>
+        </linearGradient>
+    </defs>
+    <g fill="#faa" stroke="#000" stroke-width="1.536" transform="matrix(.49308 -.4249 -.42506 -.49304 133.516 286.37)">
+        <path d="M81.841 93.3c15.83-21.832 10.03-61.826-12.112-67.438-30.017-7.608 5.316 42.39-36.422 90.734-42.257 48.945-124.405-13.734-94.65 48.393-4.096-2.63-2.007 14.993-2.404 6.64-44.035-83.047 48.744-11.865 91.842-57.654 39.827-42.313 4.616-102.868 40.652-94.66C93.712 25 104.98 72.705 89.37 93.299c-.989 1.305-6.251 1.022-7.53 0z"/>
+        <ellipse cx="93.102" cy="67.756" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.229" rx="7.529" ry="7.366"/>
+        <path d="M87.399 75.237c-6.002-.599-9.192 7.697-20.654 15.136-.01 4.613 5.78 7.284 10.464 9.833 2.772-4.682 3.791-6.825 5.689-8.92-1.416 3.171-1.384 4.85-3.203 9.571 7.94 2.964 13.823 3.68 19.658 1.44-.978-1.598-.496-5.652-1.82-8.848 5.62 11.863 3.566 8.71 7.239 6.121.553-.174-3.714-7.476-5.906-11.021-1.96-3.169-.987-8.342-6.79-12.507-1.348-.829-3.138-1.167-4.677-.805z"/>
+    </g>
+    <path fill="#faa" stroke="#000" d="M233.084 20.625C187.336 62.954 99.108 146.992 19.643 219.335c-.697 8.682 4.085 14.371 12.767 15.06 77.37-71.153 138.964-126.989 215.078-200.022.02-.571.01-1.125-.027-1.664a4.1 4.1 0 01-6-3.633c0-1.788.927-2.445 2.285-4.141-2.588-2.798-5.992-4.142-10.662-4.31z"/>
+    <ellipse cx="162.429" cy="106.47" fill="#ff2a2a" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" rx="4.1" ry="4.1"/>
+    <ellipse cx="89.91" cy="172.889" fill="#ff2a2a" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" rx="4.1" ry="4.1"/>
+    <ellipse cx="103.427" cy="160.68" fill="#ff2a2a" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" rx="4.1" ry="4.1"/>
+    <ellipse cx="116.754" cy="148.277" fill="#ff2a2a" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" rx="4.1" ry="4.1"/>
+    <ellipse cx="131.313" cy="134.815" fill="#ff2a2a" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" rx="4.1" ry="4.1"/>
+    <ellipse cx="146.368" cy="120.738" fill="#ff2a2a" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" rx="4.1" ry="4.1"/>
+</svg>

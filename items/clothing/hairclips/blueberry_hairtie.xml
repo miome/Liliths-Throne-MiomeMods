@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<clothing>
+	<coreAttributes>
+		<value>10</value>
+		<determiner><![CDATA[a]]></determiner>
+		<name><![CDATA[blueberry hair tie]]></name>
+		<namePlural pluralByDefault="false"><![CDATA[blueberry hair ties]]></namePlural>
+		<description><![CDATA[A hair tie with beads in the shape of blueberries.]]></description>
+		<physicalResistance>0</physicalResistance>
+		<femininity>FEMININE</femininity>
+		<slot>HAIR</slot>
+		<rarity>COMMON</rarity>
+		<clothingSet/>
+		<imageName>blueberry_hairtie_opt.svg</imageName>
+		<imageEquippedName/>
+		<enchantmentLimit/>
+		<effects/>
+		
+		<blockedPartsList>
+			<blockedParts>
+				<displacementType>REMOVE_OR_EQUIP</displacementType>
+				<clothingAccessRequired/>
+				<blockedBodyParts/>
+				<clothingAccessBlocked/>
+				<concealedSlots/>
+			</blockedParts>
+		</blockedPartsList>
+		
+		<incompatibleSlots/>
+		
+		<primaryColours><colour>CLOTHING_WHITE</colour></primaryColours>
+                <primaryColoursDye values="ALL"/>
+		<secondaryColours/>
+		<secondaryColoursDye/>
+		<tertiaryColours/>
+		<tertiaryColoursDye/>
+	
+		<itemTags>
+			<tag>GIFT</tag><tag>SOLD_BY_NYAN</tag>
+		</itemTags>
+	</coreAttributes>
+
+  <replacementText type="REMOVE_OR_EQUIP">
+    <self>
+      <![CDATA[[npc.Name] [npc.verb(ties)] the tie into [npc.her] [npc.hair(true)].]]>
+    </self>
+    <other>
+      <![CDATA[[npc.Name] [npc.verb(ties)] the tie into [npc2.namePos] [npc2.hair(true)].]]>
+    </other>
+    <otherRough>
+      <![CDATA[[npc.Name] roughly [npc.verb(ties)] the tie into [npc2.namePos] [npc2.hair(true)].]]>
+    </otherRough>
+  </replacementText>
+
+  <displacementText type="REMOVE_OR_EQUIP">
+    <self>
+      <![CDATA[[npc.Name] [npc.verb(take)] the tie out of [npc.her] [npc.hair(true)].]]>
+    </self>
+    <other>
+      <![CDATA[[npc.Name] [npc.verb(take)] the tie out of [npc2.namePos] [npc2.hair(true)].]]>
+    </other>
+    <otherRough>
+      <![CDATA[[npc.Name] [npc.verb(snatch)] the tie out of [npc2.namePos] [npc2.hair(true)].]]>
+    </otherRough>
+  </displacementText>
+  
+</clothing>
