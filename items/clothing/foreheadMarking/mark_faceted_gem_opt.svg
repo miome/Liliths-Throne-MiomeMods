@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" cursor="default" viewBox="0 0 256 256">
+    <defs>
+        <linearGradient id="linearGradient924" x1="18.12" x2="21.466" y1="241.29" y2="228.73" gradientTransform="scale(1 -1) rotate(-89.503 -.246 -.024)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#917c6f"/>
+            <stop offset="1" stop-color="#ac9d93"/>
+        </linearGradient>
+        <linearGradient id="innoGrad4">
+            <stop offset="0" stop-color="#ffb380"/>
+            <stop offset="1" stop-color="#fca"/>
+        </linearGradient>
+    </defs>
+    <g stroke-width=".208" transform="matrix(5.1815 0 0 5.22368 -594.822 -869.023)">
+        <ellipse cx="56.262" cy="229.93" fill="#f95" rx="5.752" ry="5.712" transform="matrix(.92246 -.3861 .38099 .92458 0 0)"/>
+        <g stroke="#000" stroke-dashoffset="5.4" stroke-linecap="round" stroke-linejoin="round">
+            <g stroke-width=".054">
+                <path fill="#fca" d="M125.64 200.77l-.144 2.765 1.073 1.193 4.089.055-2.756-3.761z" transform="matrix(.95702 0 0 .96452 16.867 -4.688)"/>
+                <path fill="#ffe6d5" d="M126.65 200.87l-.822-3.269 2.072 3.427zM130.34 201.4l.867-3.544-3.308 3.165z" transform="matrix(.95702 0 0 .96452 16.867 -4.688)"/>
+                <path fill="#fca" d="M129.37 199.56l-3.64-2.11c2.21-.998 4.118-.45 5.619.25z" transform="matrix(.95702 0 0 .96452 16.867 -4.688)"/>
+                <path fill="#ffb380" d="M131.79 202.02l2.277 1.052c.465-1.413-1.194-4.795-2.885-5.462z" transform="matrix(.95702 0 0 .96452 16.867 -4.688)"/>
+                <path fill="#ffe6d5" d="M130.34 201.4l.314 3.382 3.163-1.812z" transform="matrix(.95702 0 0 .96452 16.867 -4.688)"/>
+                <path fill="#ffb380" d="M134.06 202.81c.115 2.329-1.364 4.612-3.19 5.013l-.114-2.12z" transform="matrix(.95702 0 0 .96452 16.867 -4.688)"/>
+            </g>
+            <g fill="#ff7f2a" stroke-width=".054">
+                <path d="M130.65 204.79l-2.907 1.167 3.118 1.873zM126.56 204.73l-1.141 2.936 2.323-1.714z" transform="matrix(.95702 0 0 .96452 16.867 -4.688)"/>
+                <path d="M125.45 208.12c-1.979-.762-3.593-3.431-3.235-6.04l3.273 1.464z" transform="matrix(.95702 0 0 .96452 16.867 -4.688)"/>
+            </g>
+            <path fill="#fca" stroke-width=".052" d="M137.19 185.76c-1.265.334-3.222 2.529-3.362 4.462l3.276-1.256z"/>
+            <ellipse cx="56.262" cy="229.93" fill="none" stroke-width=".104" rx="5.752" ry="5.712" transform="matrix(.92246 -.3861 .38099 .92458 0 0)"/>
+        </g>
+    </g>
+</svg>

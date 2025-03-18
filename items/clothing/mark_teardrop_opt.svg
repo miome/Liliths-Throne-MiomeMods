@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" cursor="default" viewBox="0 0 256 256">
+    <defs>
+        <linearGradient id="linearGradient924" x1="18.12" x2="21.466" y1="241.29" y2="228.73" gradientTransform="scale(1 -1) rotate(-89.503 -.246 -.024)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#917c6f"/>
+            <stop offset="1" stop-color="#ac9d93"/>
+        </linearGradient>
+        <linearGradient id="innoGrad4">
+            <stop offset="0" stop-color="#ffb380"/>
+            <stop offset="1" stop-color="#fca"/>
+        </linearGradient>
+        <radialGradient id="radialGradient105" cx="70.751" cy="17.918" r="6.42" fx="70.751" fy="17.918" gradientTransform="matrix(1 0 0 .9775 0 .458)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient80"/>
+        <linearGradient id="linearGradient80">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1" stop-color="#ff8080"/>
+        </linearGradient>
+    </defs>
+    <g stroke-width=".125" paint-order="stroke markers fill" transform="matrix(6.23564 0 0 6.2522 -301.277 2.288)">
+        <ellipse cx="69.038" cy="20.366" fill="url(#radialGradient105)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".186" rx="5.673" ry="5.529"/>
+        <ellipse cx="65.638" cy="22.69" fill="#ffd5d5" rx=".564" ry=".564"/>
+        <circle cx="67.989" cy="23.982" r="1" fill="#ffd5d5"/>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" cursor="default" viewBox="0 0 256 256">
+    <defs>
+        <linearGradient id="linearGradient924" x1="18.12" x2="21.466" y1="241.29" y2="228.73" gradientTransform="scale(1 -1) rotate(-89.503 -.246 -.024)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#917c6f"/>
+            <stop offset="1" stop-color="#ac9d93"/>
+        </linearGradient>
+        <linearGradient id="innoGrad4">
+            <stop offset="0" stop-color="#ffb380"/>
+            <stop offset="1" stop-color="#fca"/>
+        </linearGradient>
+    </defs>
+    <path fill="#faa" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".8" d="M131.018 95.371s-6.302 14.978-8.808 22.697c-.837 2.576-2.07 5.17-2.071 7.858-.001 6.01 4.82 10.882 10.765 10.88 5.945 0 10.765-4.871 10.764-10.88 0-2.807-1.546-5.272-2.417-7.877-2.553-7.626-8.233-22.678-8.233-22.678z"/>
+</svg>

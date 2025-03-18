@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<clothing>
+	<coreAttributes>
+		<value>100</value>
+		<determiner><![CDATA[a]]></determiner>
+		<name><![CDATA[forehead marking]]></name>
+		<namePlural pluralByDefault="false"><![CDATA[forehead markings]]></namePlural>
+		<description><![CDATA[A decorative sticker or painted mark, worn on the forehead..]]></description>
+		<physicalResistance>0</physicalResistance>
+		<femininity>FEMININE</femininity>
+		<slot>EYES</slot>
+		<rarity>COMMON</rarity>
+		<clothingSet/>
+		<imageName>marking_opt.svg</imageName>
+		<imageEquippedName/>
+		<enchantmentLimit/>
+		<effects/>
+<stickers>
+   		 <category id="design" priority="1">
+   			 <categoryName><![CDATA[Round]]></categoryName>
+   			 <sticker id="Round" priority="1" defaultSticker="true" zLayer="1">
+   				 <stickerName><![CDATA[Round]]></stickerName>
+   				 <namePrefix/>
+   				 <namePostfix/>
+   				 <descriptionModification/>
+   				 <imageName/>
+   				 <itemTagsAdded/>
+   				 <itemTagsRemoved/>
+   				 <unavailabilityText/>
+   				 <availabilityText/>
+   			 </sticker>
+   			 <sticker id="oval" priority="1" defaultSticker="false" zLayer="1" colourDisabled="" colourSelected="">
+   				 <stickerName><![CDATA[Oval]]></stickerName>
+   				 <namePrefix/>
+   				 <namePostfix priority="1"><![CDATA[(oval)]]></namePostfix>
+   				 <descriptionModification fullReplacement="true" priority="1"><![CDATA[ <i>This marking is oval and intricately decorated.</i>]]></descriptionModification>
+   				 <imageName zLayer="1" slot="EYES">mark_oval_opt.svg</imageName>
+   				 <itemTagsAdded/>
+   				 <itemTagsRemoved/>
+   				 <unavailabilityText/>
+   				 <availabilityText/>
+   			 </sticker>
+   			 <sticker id="flower" priority="1" defaultSticker="false" zLayer="1" colourDisabled="" colourSelected="">
+   				 <stickerName><![CDATA[Flower]]></stickerName>
+   				 <namePrefix/>
+   				 <namePostfix priority="1"><![CDATA[(flower)]]></namePostfix>
+   				 <descriptionModification fullReplacement="true" priority="1"><![CDATA[ <i>This is in the shape of a flower.</i>]]></descriptionModification>
+   				 <imageName zLayer="1" slot="EYES">mark_flower_opt.svg</imageName>
+   				 <itemTagsAdded/>
+   				 <itemTagsRemoved/>
+   				 <unavailabilityText/>
+   				 <availabilityText/>
+   			 </sticker>
+                        <sticker id="teardrop" priority="1" defaultSticker="false" zLayer="1" colourDisabled="" colourSelected="">
+                                 <stickerName><![CDATA[Teardrop]]></stickerName>
+                                 <namePrefix/>
+                                 <namePostfix priority="1"><![CDATA[(teardrop)]]></namePostfix>
+                                 <descriptionModification fullReplacement="true" priority="1"><![CDATA[ <i>This is in the shape of a teardrop.</i>]]></descriptionModification>
+                                 <imageName zLayer="1" slot="EYES">mark_teardrop_opt.svg</imageName>
+                                 <itemTagsAdded/>
+                                 <itemTagsRemoved/>
+                                 <unavailabilityText/>
+                                 <availabilityText/>
+                         </sticker>
+
+   		 </category>
+   	 </stickers>
+		
+		<blockedPartsList>
+			<blockedParts>
+				<displacementType>REMOVE_OR_EQUIP</displacementType>
+				<clothingAccessRequired/>
+				<blockedBodyParts/>
+				<clothingAccessBlocked/>
+				<concealedSlots/>
+			</blockedParts>
+		</blockedPartsList>
+		
+		<incompatibleSlots/>
+		
+		<primaryColours values="ALL" />
+		<primaryColoursDye values="ALL"/>
+		<secondaryColours values="ALL" />
+		<secondaryColoursDye values="ALL"/>
+		<tertiaryColours values="ALL_METAL"/>
+		<tertiaryColoursDye values="ALL_METAL"/>
+	
+		<itemTags>
+			<tag>GIFT</tag>
+			<tag>SOLD_BY_NYAN</tag>
+		</itemTags>
+	</coreAttributes>
+
+    <replacementText type="REMOVE_OR_EQUIP">
+    <self>
+      <![CDATA[[npc.Name] [npc.verb(places)] the mark onto [npc.her] forehead.]]>
+    </self>
+    <other>
+      <![CDATA[[npc.Name] [npc.verb(places)] the mark onto [npc2.namePos] forehead.]]>
+    </other>
+    <otherRough>
+      <![CDATA[[npc.Name] roughly [npc.verb(places)] the mark onto [npc2.namePos] forehead.]]>
+    </otherRough>
+  </replacementText>
+
+  <displacementText type="REMOVE_OR_EQUIP">
+    <self>
+      <![CDATA[[npc.Name] [npc.verb(peels)] [npc.her] mark off of [npc.her] forehead.]]>
+    </self>
+    <other>
+      <![CDATA[[npc.Name] [npc.verb(peels)] [npc2.namePos] mark off of [npc2.her] forehead.]]>
+    </other>
+    <otherRough>
+      <![CDATA[[npc.Name] roughly [npc.verb(peels)] [npc2.namePos] mark off of [npc2.her] forehead.]]>
+    </otherRough>
+  </displacementText>
+
+</clothing>
