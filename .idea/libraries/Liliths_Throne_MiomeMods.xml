@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Liliths-Throne-MiomeMods">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tape-dispenser-2025-03-15.zip!/" />
+      <root url="jar://$PROJECT_DIR$/miome-hanfu-2025-03-15.zip!/" />
+      <root url="jar://$PROJECT_DIR$/miome-clothes-2025-03-15.zip!/" />
+      <root url="jar://$PROJECT_DIR$/miome-weapons-2025-03-15.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
