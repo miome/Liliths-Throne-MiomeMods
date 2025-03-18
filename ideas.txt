@@ -2,4 +2,21 @@
 Forehead marks:
 https://www.newhanfu.com/7034.html
 
+Unnamed weapons/advanced weapon moves:
+On hold, wait to see if pull request for blockAmount fix is accepted.
+Could go ahead with guqin song to reduce lust in self & allies ( clarity? )
+
+Hairclips:
+Rest of flavors
+Rainbow, moon with dangling stars, leaf
+
+Hanfu:
+Wigs
+XML for arm protector
+Continue boots, consider starting over using existing boots
+Decoration for robes - stickers or patterns?
+
+XML for pentagram miniskirt, and add to makefile for clothes mod
+Look at how many items added to clothes mod, time for new release?
+
 
